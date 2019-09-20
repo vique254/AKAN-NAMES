@@ -7,5 +7,8 @@ text-decoration-color: transparent;
 }
 .label{
     text-align:center;
-    wid
+}
+p{
+    color:green;
+    font-size: 20px;
 }
