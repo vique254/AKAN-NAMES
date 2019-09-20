@@ -1,7 +1,11 @@
 .main{
-    background-image: url("./nature.jpg");
+    background-image: url("./img/nature.jpg");
     height: 100vh;
     background-repeat:no-repeat;
-
+text-decoration-color: transparent;
     background-size: cover;
+}
+.label{
+    text-align:center;
+    wid
 }
