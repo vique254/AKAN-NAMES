@@ -16,6 +16,7 @@
     This app enables you to insert your details e.g., date of birth,month,year and gender.And it will display your name which matches the day you were born and gender.
     </p>
     <div class="label">
+    <form>
     <label>Month</label><br>
     <input type="text" id="month" placeholder="Month in number" required><br><br>
     <label>Day</label><br>
@@ -25,9 +26,11 @@
     <label>Gender</label><br>
     <input type="radio" name="gender" id="gender" value="male" checked> Male<br>
     <input type="radio" name="gender" value="female"> Female<br><br> 
-    <input type="submit" value="Submit" onclick="submition()">
+    <input type="submit" onclick="giveAkanName ()" value="Submit" >
+  </form>
 </div>
 </div>
 </div>
+<script src="./JS/vique.js"></script>
 </body>
 </html>
