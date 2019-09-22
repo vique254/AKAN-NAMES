@@ -16,7 +16,7 @@ Akan -names is a website designed to generate Ghanian culture according to day o
 * Open the project with a text editor eg visual studio (code .)
 ### Contacts
 In case you need any kind of help, feel free to reach through :
-* Victoronyango051@gmail.com
-* +254700736350
+* **Victoronyango051@gmail.com**
+* **+254700736350**
 ### License and copyright
 copyright (c) 2019 **Moringa School**, **Vique**
