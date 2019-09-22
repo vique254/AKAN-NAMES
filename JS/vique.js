@@ -22,6 +22,7 @@ function giveAkanName (){
         akanName = maleNames[dayBorn];
     }
     else{
+        
         akanName = femaleNames[dayBorn];
     }
 
