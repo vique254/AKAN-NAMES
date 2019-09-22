@@ -12,3 +12,15 @@ p{
     color:green;
     font-size: 20px;
 }
+h1{
+    text-align:center;
+}
+#Gender:hover{
+background-color: cornsilk;
+}
+#submit{
+    width: 100px;
+}
+#submit:hover{
+   background-color:purple;
+}
